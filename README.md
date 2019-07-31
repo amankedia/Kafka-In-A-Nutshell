@@ -16,7 +16,7 @@ Here, Twitter's Stream API has been used to fetch data related to specific topic
 
 The fetched data is put into Kafka by creating a Producer for the same
 
-## 3. Twitter Producer
+## 3. Elasticsearch Consumer
 
 Here, a 3-node Elasticsearch cluster has been created using free services from Bonsai.
 
