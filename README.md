@@ -1,5 +1,5 @@
 # Kafka-In-A-Nutshell
-Experimentation with Kafka
+Experimentations with Kafka
 
 The repository has been divided into 3 parts.
 
@@ -22,4 +22,9 @@ Here, a 3-node Elasticsearch cluster has been created using free services from B
 
 The data produced into Kafka using from Twitter's streaming API is consumed into the Elasticsearch cluster with specific indices.
 
+#### Credits
 The code in this repository has been developed mostly based on my learning from Stephen Maarek's course and various other blogs on Kafka.
+
+#### Contact
+
+For any comments/suggestions, please reach out on amankedia.sap@gmail.com
