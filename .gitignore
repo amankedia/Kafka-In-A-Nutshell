@@ -1,0 +1,5 @@
+*gradle*
+.idea
+kafka-basics/build
+kafka-consumer-elasticsearch/build
+twitter-producer/build
